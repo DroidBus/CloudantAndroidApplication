@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CloudantTest</string>
+    <string name="activity_settings_title">Settings</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_new">New</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_download">Download (Pull)</string>
+    <string name="action_upload">Upload (Push)</string>
+    <string name="action_delete">Delete</string>
+    <string name="new_task">New Task</string>
+    <string name="enter_description">Enter task description</string>
+    <string name="task_not_created">Task not created because description is empty</string>
+    <string name="completed">COMPLETED</string>
+    <string name="replication_running">Replication is running</string>
+    <string name="replication_completed">Replication completed</string>
+    <string name="replication_error">Replication error</string>
+
+    <string name="pref_summary_api_key">igY1hNNYcGgavPX9qF1iPyAlUk_tQkETQGN1QifelM8t</string>
+    <string name="pref_title_api_key">igY1hNNYcGgavPX9qF1iPyAlUk_tQkETQGN1QifelM8t</string>
+    <string name="pref_summary_api_password">8cec861877018bfa8e4a5c1fb0f204fc</string>
+    <string name="pref_title_api_password">8cec861877018bfa8e4a5c1fb0f204fc</string>
+    <string name="pref_summary_username">apikey-v2-2q25sze5zjw9xclsq2z9oajki8fh94v74wf76fdkj79</string>
+    <string name="pref_title_username">apikey-v2-2q25sze5zjw9xclsq2z9oajki8fh94v74wf76fdkj79</string>
+    <string name="pref_summary_dbname">db_housing</string>
+    <string name="pref_title_dbname">db_housing</string>
+    <string name="default_user">apikey-v2-2q25sze5zjw9xclsq2z9oajki8fh94v74wf76fdkj79</string>
+    <string name="default_dbname">db_housing</string>
+    <string name="default_api_key">igY1hNNYcGgavPX9qF1iPyAlUk_tQkETQGN1QifelM8t</string>
+    <string name="default_api_password">8cec861877018bfa8e4a5c1fb0f204fc</string>
+</resources>
